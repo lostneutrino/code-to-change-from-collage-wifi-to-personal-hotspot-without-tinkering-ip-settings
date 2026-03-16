@@ -1,0 +1,1 @@
+# code-to-change-from-collage-wifi-to-personal-hotspot-without-tinkering-ip-settings
